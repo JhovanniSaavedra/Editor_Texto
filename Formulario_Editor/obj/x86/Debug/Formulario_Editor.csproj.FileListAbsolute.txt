@@ -1,0 +1,8 @@
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\bin\Debug\Formulario_Editor.exe
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\bin\Debug\Formulario_Editor.pdb
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\obj\x86\Debug\Formulario_Editor.Form1.resources
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\obj\x86\Debug\Formulario_Editor.Properties.Resources.resources
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\obj\x86\Debug\Formulario_Editor.csproj.GenerateResource.Cache
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\obj\x86\Debug\Formulario_Editor.exe
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\obj\x86\Debug\Formulario_Editor.pdb
+C:\Users\Jhovanni\Documents\Visual Studio 2010\Projects\Terminado\Formulario_Editor\Formulario_Editor\obj\x86\Debug\Formulario_Editor.csprojResolveAssemblyReference.cache
